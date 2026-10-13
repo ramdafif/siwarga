@@ -1,0 +1,7 @@
+{
+  "name": "SIWARGA - Sistem Informasi & Pengaduan Warga RT/RW",
+  "description": "Sistem Informasi dan Pengaduan Masyarakat terintegrasi berbasis wilayah RW/RT dengan multi-role RBAC, tracking status pengaduan, pengumuman, dan kegiatan warga.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
